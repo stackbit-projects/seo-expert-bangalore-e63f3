@@ -65,7 +65,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
-  - title: lorem-ipsum
+  - title: Why should you work with me?
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
