@@ -28,17 +28,42 @@ sections:
   - title: Why should you work with me?
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ### I specialize in search engine optimization.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      There are so many changes in SEO that you cannot stay on top of it without
+      a specialist. Search engine optimization is not something I do on the side
+      as a generalist digital marketer. SEO is all that I do. Keeping up to date
+      with the latest information and strategies enables me to stay on top of
+      the latest developments.
 
 
-      - Lorem ipsum
+      ### I have ranked websites in several industries.
 
-      - dolor sit amet
+
+      I have worked with a variety of businesses in multiple industries,
+      including doctors, builders, lawyers, and ecommerce stores, and I
+      consistently get great rankings for them. My SEO strategies and campaigns
+      are focused on profits and quality. You can be sure that your investment
+      in my search engine services is taken very seriously and that I focus on
+      generating long-term revenue from keywords that will bring you more sales.
+
+
+      ### I provide monthly SEO reports that are easy to understand.
+
+
+      Get monthly search ranking reports and access to your own live ranking
+      dashboard for your business.
+
+
+      ### Contact me at any time.
+
+
+      If you have questions or concerns about your website or SEO services, you
+      can always reach out to me. Because I'm an SEO consultant, I don't charge
+      big SEO agency prices because I don't have a big team or office. I am a
+      freelance seo expert which means I can pass the savings onto you.
     actions: []
     type: section_content
   - section_id: recent-posts
