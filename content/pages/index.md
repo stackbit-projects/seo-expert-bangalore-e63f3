@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: Freelance SEO Consultant in Bangalore
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Does Your Website Qualify to Rank on Page 1 of Google?. Boost your online
+      business with science-based SEO strategies. Let’s start a conversation
   - section_id: about
     type: section_content
     title: About
