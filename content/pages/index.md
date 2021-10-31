@@ -11,7 +11,7 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >+
+    content: >
       Vijay Kumar is an SEO expert in Bangalore, who understands what really
       matters and applies it. In a field that's often filled with empty
       promises, it's refreshing to find someone trustworthy who delivers. As a
@@ -26,7 +26,7 @@ sections:
       ## Why should you work with me?
 
 
-      > I specialize in search engine optimization.
+      ### I specialize in search engine optimization.
 
 
       There are so many changes in SEO that you cannot stay on top of it without
@@ -36,7 +36,7 @@ sections:
       the latest developments.
 
 
-      > I have ranked websites in several industries.
+      ### I have ranked websites in several industries.
 
 
       I have worked with a variety of businesses in multiple industries,
@@ -47,27 +47,20 @@ sections:
       generating long-term revenue from keywords that will bring you more sales.
 
 
-      > I provide monthly SEO reports that are easy to understand.
+      ### I provide monthly SEO reports that are easy to understand.
 
 
       Get monthly search ranking reports and access to your own live ranking
       dashboard for your business.
 
 
-      > Contact me at any time.
+      ### Contact me at any time.
 
 
       If you have questions or concerns about your website or SEO services, you
       can always reach out to me. Because I'm an SEO consultant, I don't charge
       big SEO agency prices because I don't have a big team or office. I am a
       freelance seo expert which means I can pass the savings onto you.
-
-
-
-
-
-
-
     actions:
       - label: Contact Me
         url: /contact
