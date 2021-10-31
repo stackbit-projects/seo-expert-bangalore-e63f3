@@ -23,7 +23,7 @@ sections:
       ranking websites in your field.
 
 
-      ## Why should you work with me?
+      ##
 
 
       ### I specialize in search engine optimization.
