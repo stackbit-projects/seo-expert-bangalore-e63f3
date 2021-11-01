@@ -69,7 +69,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'twitter:image'
-      value: /images/Untitled design.jpg
+      value: /images/SEO Expert in Bangalore.jpg
       keyName: property
       relativeUrl: true
 layout: advanced
