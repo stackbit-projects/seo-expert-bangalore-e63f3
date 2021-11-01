@@ -67,7 +67,9 @@ sections:
     actions: []
     type: section_content
 seo:
-  title: Stackbit Fresh Theme
+  title: >-
+    SEO Expert in Bangalore | Freelance SEO & Digital Marketing Consultant in
+    Bangalore - Vijay Kumar C
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
