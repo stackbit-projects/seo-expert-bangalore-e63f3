@@ -14,7 +14,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: About Me | SEO Expert in Bangalore
       keyName: property
     - name: 'og:description'
       value: >-
