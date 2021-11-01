@@ -2,7 +2,10 @@
 title: Privacy and Terms
 seo:
   title: Theme Style Guide
-  description: A reference for suggested typographic treatment and styles for your content
+  description: >-
+    The following privacy policy governs your use of site. This Privacy Policy
+    document contains types of information that is offered, collected, recorded,
+    stored, and used.  
   extra:
     - name: 'og:type'
       value: website
