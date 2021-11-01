@@ -26,7 +26,11 @@ seo:
       value: What is a Slug in SEO?
       keyName: property
     - name: 'og:description'
-      value: A cautionary tale about riding
+      value: >-
+        A slug is a unique identifier that is part of your page URL. It
+        indicates what the page or article is about. The right slug will give
+        users an idea of what the page actually consists of. Slugs usually
+        appear after the last ‘/’ in the URL.
       keyName: property
     - name: 'og:image'
       value: images/3.jpg
