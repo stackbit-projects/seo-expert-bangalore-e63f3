@@ -65,7 +65,7 @@ seo:
         a call. I’ll get in touch with you within 24 hours to discuss what’s
         best for your business.
     - name: 'og:image'
-      value: /images/Untitled design.jpg
+      value: /images/SEO Expert in Bangalore.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:image'
