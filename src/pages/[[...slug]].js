@@ -1,4 +1,4 @@
-import React, {lazy} from 'react';
+import React, { lazy } from 'react';
 import _ from 'lodash';
 import { sourcebitDataClient } from 'sourcebit-target-next';
 import { withRemoteDataUpdates } from 'sourcebit-target-next/with-remote-data-updates';
