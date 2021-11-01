@@ -78,7 +78,9 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: >-
+        SEO Expert in Bangalore | Freelance SEO & Digital Marketing Consultant
+        in Bangalore - Vijay Kumar C
       keyName: property
     - name: 'og:description'
       value: >-
