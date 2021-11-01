@@ -23,7 +23,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
+          - Freelance SEO
           - Sponsorship
           - Other
       - input_type: textarea
