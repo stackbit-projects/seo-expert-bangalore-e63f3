@@ -31,7 +31,10 @@ seo:
     - name: 'twitter:title'
       value: About Me
     - name: 'twitter:description'
-      value: This is the about me page
+      value: >-
+        I’m an MBA graduate with over 10+ years of experience in Digital
+        Marketing (SEM/SEO/SMO). I’ve worked with start-ups as well as large
+        organizations and helped expand their portfolio through marketing.
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
