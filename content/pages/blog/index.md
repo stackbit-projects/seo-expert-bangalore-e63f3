@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:title'
       value: Blog & Resources | SEO Expert Bangalore
     - name: 'twitter:description'
-      value: This is the blog page
+      value: Find the latest SEO and Digital Marketing updates.
     - name: 'twitter:image'
       value: /images/SEO Expert in Bangalore.jpg
       relativeUrl: true
