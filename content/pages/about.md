@@ -36,7 +36,7 @@ seo:
         Marketing (SEM/SEO/SMO). I’ve worked with start-ups as well as large
         organizations and helped expand their portfolio through marketing.
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: /images/SEO Expert in Bangalore.jpg
       relativeUrl: true
 layout: page
 ---
