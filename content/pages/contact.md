@@ -60,7 +60,10 @@ seo:
     - name: 'twitter:title'
       value: Contact Me | SEO Expert Bangalore
     - name: 'twitter:description'
-      value: This is the contact page
+      value: >-
+        Take your business in the right direction. Leave me a message or give me
+        a call. I’ll get in touch with you within 24 hours to discuss what’s
+        best for your business.
     - name: 'og:image'
       value: /images/Untitled design.jpg
       keyName: property
