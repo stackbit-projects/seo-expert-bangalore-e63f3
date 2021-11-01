@@ -33,7 +33,7 @@ seo:
         Policy document contains types of information that is offered,
         collected, recorded, stored, and used.  
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: /images/SEO Expert in Bangalore Favicon.png
       relativeUrl: true
 layout: page
 ---
