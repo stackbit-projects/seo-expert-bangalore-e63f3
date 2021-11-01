@@ -12,7 +12,7 @@ thumb_img_alt: A motorcycle in a forest
 content_img_path: /images/What is a Slug in SEO.jpg
 content_img_alt: A motorcycle in a forest
 seo:
-  title: The Ride In The Woods
+  title: What is a Slug in SEO?
   description: A cautionary tale about riding
   extra:
     - name: 'og:type'
