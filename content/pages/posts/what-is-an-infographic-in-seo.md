@@ -45,7 +45,7 @@ One of the main reasons why your content is not giving the results you want is b
 
 Now, there is nothing wrong with long-form content. [Google loves it](https://neilpatel.com/blog/why-you-need-to-create-evergreen-long-form-content-and-how-to-produce-it/). But there is also a reason why platforms such as Instagram and Pinterest are so popular. It’s because they provide the same information in a more attractive and interesting format i.e. through visuals.
 
-***65% of people retain information better if it is paired with a relevant image.***
+> ***65% of people retain information better if it is paired with a relevant image.***
 
 Isn’t that fascinating?
 
@@ -57,7 +57,7 @@ An infographic is a visual representation of content. Simply put, it is an ‘in
 
 Infographics provide an interesting way to transform boring content into visual chunks that a reader can easily consume and retain. By providing information in visual servings, you enable users to remember it and, in turn, make them return to your site.
 
-***55%of users spend less than 15 seconds reading content on a page.***
+> ***55%of users spend less than 15 seconds reading content on a page.***
 
 To put it bluntly, **no one has the time to read your long-form content**. Even if it took you hours to put it together, all that matters to your readers is how interesting or engaging your content is.
 
@@ -83,15 +83,11 @@ Creating an infographic does not require over-the-top graphic design skills; it 
 
 1.  **Research your content:** Your infographic should provide users new, useful content that they cannot find elsewhere. By providing original content, you increase your chances of being recognized by popular bloggers, content creators, and other marketers.
 
-
 2.  **Define your audience:** You can design an infographic well if you know who the target audience is. For example, if you want to target corporate honchos, using funny vectors may not help. Likewise, if you are providing information to college students, don’t make its tone too serious.
-
 
 3.  **Determine information flow:** Create a compelling narrative that will hold your readers’ attention rather than simply putting together a set of images and content. Your infographic should tell a story, not sell a product.
 
-
 4.  **Make a blueprint:** Before you start designing, determine where each element of your infographic will go i.e. create a blueprint of your design. This will help you understand the flow of information and allows you to revise the design as required.
-
 
 5.  **Design the infographic:** The final step is to use the tools and resources at your disposal to design the infographic. Many online applications can be used to create infographics. You can also utilize the services of a graphic designer to develop your infographic.
 
