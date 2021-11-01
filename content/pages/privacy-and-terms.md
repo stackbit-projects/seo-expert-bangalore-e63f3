@@ -11,9 +11,7 @@ seo:
       value: Privacy Policy
       keyName: property
     - name: 'og:description'
-      value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+      value: The following privacy policy governs your use of site
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
