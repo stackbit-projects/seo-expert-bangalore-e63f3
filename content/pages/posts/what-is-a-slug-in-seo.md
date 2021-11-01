@@ -33,7 +33,7 @@ seo:
         appear after the last ‘/’ in the URL.
       keyName: property
     - name: 'og:image'
-      value: images/3.jpg
+      value: /images/What is a Slug in SEO.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
