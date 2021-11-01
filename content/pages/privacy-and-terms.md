@@ -26,8 +26,9 @@ seo:
       value: Theme Style Guide
     - name: 'twitter:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        The following privacy policy governs your use of site. This Privacy
+        Policy document contains types of information that is offered,
+        collected, recorded, stored, and used.  
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
