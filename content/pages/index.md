@@ -81,7 +81,9 @@ seo:
       value: Stackbit Fresh Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: >-
+        The Best SEO Expert in Bangalore. Besides Karnataka and Bangalore, he
+        provides SEO and digital marketing services India wide.
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
