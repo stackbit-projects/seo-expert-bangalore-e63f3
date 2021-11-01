@@ -5,7 +5,10 @@ img_path: /images/SEO Expert Bangalore.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me | SEO Expert in Bangalore
-  description: This is the about me page
+  description: >-
+    I’m an MBA graduate with over 10+ years of experience in Digital Marketing
+    (SEM/SEO/SMO). I’ve worked with start-ups as well as large organizations and
+    helped expand their portfolio through marketing.
   extra:
     - name: 'og:type'
       value: website
