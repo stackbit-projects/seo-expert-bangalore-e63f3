@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Freelance SEO Expert in Bangalore, India'
+    title: 'SEO Expert in Bangalore, India'
     content: >
       Does Your Website Qualify to Rank on Page 1 of Google?. I use cutting-edge
       SEO tactics that actually rank your website. Boost your online business
