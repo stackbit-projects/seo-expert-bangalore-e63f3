@@ -24,7 +24,6 @@ export default class Body extends React.Component {
         const videoEmbeds = ['iframe[src*="youtube.com"]', 'iframe[src*="vimeo.com"]'];
         noframe(videoEmbeds.join(','), '.inner-sm');
     }
-}
     render() {
         const page = _.get(this.props, 'page');
         const pageTitle = _.get(page, 'title');
