@@ -2,7 +2,7 @@
 title: Blog
 seo:
   title: Blog & Resources | SEO Expert Bangalore
-  description: This is the blog page
+  description: Find the latest SEO and Digital Marketing updates.
   extra:
     - name: 'og:type'
       value: website
