@@ -11,7 +11,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Privacy Policy
+      value: Privacy Policy | Website Terms & Conditions
       keyName: property
     - name: 'og:description'
       value: >-
