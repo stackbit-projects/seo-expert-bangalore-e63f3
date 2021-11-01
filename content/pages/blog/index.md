@@ -14,7 +14,7 @@ seo:
       value: Find the latest SEO and Digital Marketing updates.
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: /images/SEO Expert in Bangalore.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
