@@ -42,7 +42,7 @@ seo:
         an ‘information graphic’. It is a combination of images and text that
         simplifies a message and conveys it to your audience quickly.
     - name: 'twitter:image'
-      value: images/9.jpg
+      value: /images/What is an Infographic in SEO.jpg
       relativeUrl: true
 layout: post
 ---
