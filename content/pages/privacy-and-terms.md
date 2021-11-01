@@ -20,7 +20,7 @@ seo:
         collected, recorded, stored, and used.  
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: /images/Untitled design.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
