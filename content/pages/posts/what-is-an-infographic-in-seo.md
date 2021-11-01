@@ -1,9 +1,9 @@
 ---
 title: What is an Infographic in SEO
 excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities. They are sometimes referred to
-  as a WAHM (work at home mom) or a WAHD (work at home dad).
+  An infographic is a visual representation of content. Simply put, it is an
+  ‘information graphic’.It is a combination of images and text that simplifies a
+  message and conveys it to your audience quickly.
 date: '2016-08-22'
 thumb_img_path: /images/What is an Infographic in SEO.jpg
 thumb_img_alt: A man sitting at the table
