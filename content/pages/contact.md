@@ -47,7 +47,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Contact Me | SEO Expert Bangalore
       keyName: property
     - name: 'og:description'
       value: This is the contact page
