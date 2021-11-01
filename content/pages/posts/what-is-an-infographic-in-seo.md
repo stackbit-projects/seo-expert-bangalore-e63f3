@@ -4,7 +4,7 @@ excerpt: >-
   An infographic is a visual representation of content. Simply put, it is an
   ‘information graphic’.It is a combination of images and text that simplifies a
   message and conveys it to your audience quickly.
-date: '2021-11-22'
+date: '2021-11-01'
 thumb_img_path: /images/What is an Infographic in SEO.jpg
 thumb_img_alt: A man sitting at the table
 content_img_path: /images/What is an Infographic in SEO.jpg
