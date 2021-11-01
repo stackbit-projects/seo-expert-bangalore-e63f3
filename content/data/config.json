@@ -62,14 +62,6 @@
                 "icon_class": "youtube",
                 "new_window": true,
                 "no_follow": true
-            },
-            {
-                "label": "Twitter",
-                "url": "https://twitter.com/digi_vijay",
-                "style": "icon",
-                "icon_class": "twitter",
-                "new_window": true,
-                "no_follow": true
             }
         ]
     },
