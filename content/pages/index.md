@@ -94,7 +94,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: >-
+        SEO Expert in Bangalore | Freelance SEO & Digital Marketing Consultant
+        in Bangalore - Vijay Kumar C
     - name: 'twitter:description'
       value: >-
         The Best SEO Expert in Bangalore. Besides Karnataka and Bangalore, he
