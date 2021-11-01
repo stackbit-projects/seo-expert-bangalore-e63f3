@@ -6,8 +6,9 @@ sections:
     type: section_hero
     title: Freelance SEO Consultant in Bangalore
     content: >
-      Does Your Website Qualify to Rank on Page 1 of Google?. Boost your online
-      business with science-based SEO strategies. Let’s start a conversation
+      Does Your Website Qualify to Rank on Page 1 of Google?. I use cutting-edge
+      SEO tactics that are actually rank your website. Boost your online
+      business today. Let’s start a conversation
   - section_id: about
     type: section_content
     title: About
