@@ -33,7 +33,7 @@
             },
             {
                 "label": "Privacy Policy",
-                "url": "/privacy-and-terms",
+                "url": "/privacy-and-terms/",
                 "style": "link"
             }
         ],
