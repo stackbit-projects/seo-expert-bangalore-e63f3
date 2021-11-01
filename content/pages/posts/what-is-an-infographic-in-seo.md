@@ -11,7 +11,10 @@ content_img_path: /images/What is an Infographic in SEO.jpg
 content_img_alt: A man sitting at the table
 seo:
   title: What is an Infographic in SEO?
-  description: Work at home parent is an entrepreneur who works from home
+  description: >-
+    An infographic is a visual representation of content. Simply put, it is an
+    ‘information graphic’. It is a combination of images and text that
+    simplifies a message and conveys it to your audience quickly.
   extra:
     - name: 'og:type'
       value: article
