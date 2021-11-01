@@ -1,5 +1,5 @@
 ---
-title: The Ride In The Woods
+title: What is a Slug in SEO
 subtitle: A cautionary tale about riding
 excerpt: >-
   The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit,
