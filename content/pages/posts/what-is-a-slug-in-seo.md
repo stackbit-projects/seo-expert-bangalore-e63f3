@@ -41,7 +41,11 @@ seo:
     - name: 'twitter:title'
       value: What is a Slug in SEO?
     - name: 'twitter:description'
-      value: A cautionary tale about riding
+      value: >-
+        A slug is a unique identifier that is part of your page URL. It
+        indicates what the page or article is about. The right slug will give
+        users an idea of what the page actually consists of. Slugs usually
+        appear after the last ‘/’ in the URL.
     - name: 'twitter:image'
       value: images/3.jpg
       relativeUrl: true
