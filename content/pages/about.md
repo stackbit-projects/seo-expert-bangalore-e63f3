@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Me
+      value: About Me | SEO Expert in Bangalore
     - name: 'twitter:description'
       value: >-
         I’m an MBA graduate with over 10+ years of experience in Digital
