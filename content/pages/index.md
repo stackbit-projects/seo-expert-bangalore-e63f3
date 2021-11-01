@@ -102,7 +102,7 @@ seo:
         The Best SEO Expert in Bangalore. Besides Karnataka and Bangalore, he
         provides SEO and digital marketing services India wide.
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /images/Untitled design.jpg
       relativeUrl: true
 layout: advanced
 ---
