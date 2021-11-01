@@ -11,7 +11,7 @@ seo:
       value: Blog & Resources | SEO Expert Bangalore
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: Find the latest SEO and Digital Marketing updates.
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
