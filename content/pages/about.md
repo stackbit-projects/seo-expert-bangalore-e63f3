@@ -23,7 +23,7 @@ seo:
         organizations and helped expand their portfolio through marketing.
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: /images/SEO Expert in Bangalore.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
