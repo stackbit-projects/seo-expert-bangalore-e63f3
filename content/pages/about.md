@@ -17,7 +17,10 @@ seo:
       value: About Me
       keyName: property
     - name: 'og:description'
-      value: This is the about me page
+      value: >-
+        I’m an MBA graduate with over 10+ years of experience in Digital
+        Marketing (SEM/SEO/SMO). I’ve worked with start-ups as well as large
+        organizations and helped expand their portfolio through marketing.
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
