@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: What is an Infographic in SEO?
     - name: 'twitter:description'
       value: Work at home parent is an entrepreneur who works from home
     - name: 'twitter:image'
