@@ -23,7 +23,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Ride In The Woods
+      value: What is a Slug in SEO?
       keyName: property
     - name: 'og:description'
       value: A cautionary tale about riding
