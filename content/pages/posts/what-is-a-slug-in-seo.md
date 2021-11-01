@@ -13,7 +13,11 @@ content_img_path: /images/What is a Slug in SEO.jpg
 content_img_alt: A motorcycle in a forest
 seo:
   title: What is a Slug in SEO?
-  description: A cautionary tale about riding
+  description: >-
+    A slug is a unique identifier that is part of your page URL. It indicates
+    what the page or article is about. The right slug will give users an idea of
+    what the page actually consists of. Slugs usually appear after the last ‘/’
+    in the URL.
   extra:
     - name: 'og:type'
       value: article
