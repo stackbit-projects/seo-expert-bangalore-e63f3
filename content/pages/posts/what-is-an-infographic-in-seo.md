@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: What is an Infographic in SEO?
       keyName: property
     - name: 'og:description'
       value: Work at home parent is an entrepreneur who works from home
