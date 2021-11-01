@@ -88,7 +88,7 @@ seo:
         provides SEO and digital marketing services India wide.
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: /images/Untitled design.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
