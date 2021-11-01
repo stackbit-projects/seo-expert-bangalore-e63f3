@@ -11,7 +11,10 @@ seo:
       value: Privacy Policy
       keyName: property
     - name: 'og:description'
-      value: The following privacy policy governs your use of site
+      value: >-
+        The following privacy policy governs your use of site. This Privacy
+        Policy document contains types of information that is offered,
+        collected, recorded, stored, and used.  
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
