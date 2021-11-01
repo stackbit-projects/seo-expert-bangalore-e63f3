@@ -46,14 +46,6 @@
                 "icon_class": "linkedin",
                 "new_window": true,
                 "no_follow": true
-            },
-            {
-                "label": "Facebook",
-                "url": "https://www.facebook.com/seoexpertbengaluru/",
-                "style": "icon",
-                "icon_class": "facebook",
-                "new_window": true,
-                "no_follow": true
             }
         ]
     },
