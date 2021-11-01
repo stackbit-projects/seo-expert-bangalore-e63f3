@@ -60,7 +60,8 @@
                 "url": "https://www.youtube.com/channel/UC6MSG5TA4c1ce9CiHJgSu3w",
                 "style": "icon",
                 "icon_class": "youtube",
-                "new_window": true
+                "new_window": true,
+                "no_follow": true
             },
             {
                 "label": "GitHub",
