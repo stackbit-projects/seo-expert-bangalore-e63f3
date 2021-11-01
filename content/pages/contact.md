@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: "**Take the first step\r\nGrow Your Business Today!**\n\nTake your business in the right direction. Leave me a message or give me a call. I’ll get in touch with\r\nyou within 24 hours to discuss what’s best for your business.\n\n**Enquire Now**\nvijaykumarcirigimi@gmail.com\n\\+91-9886621210\n"
+    content: "**Take the first step\r\nGrow Your Business Today!**\n\nTake your business in the right direction. Leave me a message or give me a call. I’ll get in touch with\r\nyou within 24 hours to discuss what’s best for your business.\n\nEmail me vijaykumarcirigimi@gmail.com\n\nCall me for quick response +91-9886621210\n"
     form_id: contactForm
     form_action: /thank-you
     form_fields:
