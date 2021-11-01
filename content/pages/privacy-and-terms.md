@@ -32,89 +32,36 @@ seo:
       relativeUrl: true
 layout: page
 ---
+The following Privacy Policy governs your use of the site, [https://seoexpertbengaluru.com](https://seoexpertbengaluru.com/) (hereinafter referred to as the “Website” or “seoexpertbengaluru”). This Privacy Policy document contains types of information that is offered, collected, recorded, stored, and used. The Terms and Conditions of seoexpertbengaluru are part of its Privacy Policy. By using my website, you hereby consent to this Privacy Policy and agree to its Terms and Conditions.
 
-**This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
+**Usage Restrictions**
 
-# This is an H1
+All information on this website is the copyrighted work of seoexpertbengaluru. Except as stated herein, none of the information may be copied, reproduced, distributed, republished, downloaded, displayed, posted, or transmitted in any form without the permission of seoexpertbengaluru. No part of the Website, including logos, graphics, sounds, or images, may be reproduced or retransmitted in any way, or by any means, without the permission of seoexpertbengaluru.
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
+**Cookies**
 
-## This is an H2
+This Website uses cookies to store user information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+**Log Files**
 
-### This is an H3
+seoexpertbengaluru follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analysing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+**Limitation of Liability**
 
-#### This is an H4
+seoexpertbengaluru is a public Website intended to provide information to people from different parts of India and the world. As the Website is hosted locally in India, it will be governed by the laws of India. • The content provided on the Website is intended to address a general audience and is independent from the needs of any particular individual or entity. The information provided is not guaranteed to be complete, comprehensive, accurate, sufficient, or up-to-date for any particular purpose. The information should not be considered professional, legal, financial, or otherwise. • Links may become invalid or expire at any time. • In the event any or a portion of the provisions of these Policies are held invalid, illegal, or otherwise unenforceable by a Court, such provision shall be deemed amended to be valid, legal, and enforceable to the fullest extent permitted under applicable law, and the remaining provisions of these Policies shall remain in full force and effect. These Policies are binding upon you and your heirs, representatives, successors, and assigns. Disclosure of Information
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
+seoexpertbengaluru will not disclose or share your personal information (identifiable data such as name, phone number, image(s), address, email ID, and other personal details) without your consent. However, I may be mandated by law to disclose this information under certain circumstances. I may share your information with a government body or legal entity for purposes such as verification of identity, investigation of criminal activity, or prosecution of offence(s).
 
-## Quoting
+**Security**
 
->Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. <cite>Scott Adams</cite>
+The Website takes utmost precautions in ensuring your information stays safe and does not fall into unauthorized or unlawful hands and is protected against accidental loss, damage, or destruction. However, I cannot guarantee the security of data during transmission over the internet.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+**Third Party Privacy Policies**
 
-<hr />
+On this Website you may find links that redirect you to other websites. The Website’s Privacy Policy does not apply to other advertisers or websites. Once you leave this Website, you are on your own. Thus, I advise you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
 
-## Unordered Lists
+**Changes and Amendments to the Privacy Policy**
 
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
+seoexpertbengaluru may change or amend one or more of its Privacy Policies from time to time without prior notice. All changes are subject to the Website’s sole discretion. Your access and use of the Website will be governed by the current version of the Privacy Policy posted at the time of use. To view the current Privacy Policy, please do check the Privacy Policy page regularly.
 
-## Ordered Lists
-
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
-
-## Code Blocks
-
-Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
-
-```
-<!-- Some example CSS code -->
-body {
-  color: #333;
-  font-family: Roboto, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-}
-```
-
-## Video Embeds
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/wEG7x7jRhNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Tables
-
-<div class="responsive-table">
-  <table>
-    <caption>Simple table with caption and header</caption>
-    <thead>
-      <tr>
-        <th>Column 1</th>
-        <th>Column 2</th>
-        <th>Column 3</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Row 1, Cell 1</td>
-        <td>Row 1, Cell 2</td>
-        <td>Row 1, Cell 3</td>
-      </tr>
-      <tr>
-        <td>Row 2, Cell 1</td>
-        <td>Row 2, Cell 2</td>
-        <td>Row 2, Cell 3</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+Use of this Website is at your own risk. seoexpertbengaluru, its partners, and all stakeholders will not be held liable for any errors or omissions contained in this Website. In no event, shall the Website be liable for any damage resulting from loss of use, data, or profits arising out of, or in connection with, the use or performance of the information available from [https://seoexpertbengaluru.com](https://seoexpertbengaluru.com/) its subsidiaries. If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact me through email at <vijaykumarcirigimi@gmail.com>.
