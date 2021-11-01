@@ -25,7 +25,7 @@ sections:
         options:
           - Freelance SEO
           - Free Website Audit
-          - Other
+          - Free Consultation
       - input_type: textarea
         name: message
         label: Message
