@@ -1,7 +1,7 @@
 ---
 title: Blog
 seo:
-  title: Blog
+  title: Blog & Resources | SEO Expert Bangalore
   description: This is the blog page
   extra:
     - name: 'og:type'
