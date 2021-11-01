@@ -24,7 +24,7 @@ sections:
         default_value: Please select
         options:
           - Freelance SEO
-          - Sponsorship
+          - Website Audit
           - Other
       - input_type: textarea
         name: message
