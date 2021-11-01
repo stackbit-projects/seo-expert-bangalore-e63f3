@@ -37,7 +37,7 @@ sections:
           can be contacted.
     submit_label: Send Message
 seo:
-  title: Contact
+  title: Contact Me | SEO Expert Bangalore
   description: >-
     Take your business in the right direction. Leave me a message or give me a
     call. I’ll get in touch with you within 24 hours to discuss what’s best for
