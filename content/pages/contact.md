@@ -1,5 +1,7 @@
 ---
-title: Contact
+title: |-
+  Request a consultation
+  ? Contact Me
 hide_title: false
 sections:
   - section_id: contact-form
