@@ -55,7 +55,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Contact Me | SEO Expert Bangalore
     - name: 'twitter:description'
       value: This is the contact page
     - name: 'og:image'
