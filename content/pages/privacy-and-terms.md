@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Theme Style Guide
+      value: Privacy Policy | Website Terms & Conditions
     - name: 'twitter:description'
       value: >-
         The following privacy policy governs your use of site. This Privacy
