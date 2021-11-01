@@ -6,7 +6,7 @@ excerpt: >-
   the page or article is about. The right slug will give users an idea of what
   the page actually consists of. Slugs usually appear after the last ‘/’ in the
   URL.
-date: '2018-01-23'
+date: '2021-11-01'
 thumb_img_path: /images/What is a Slug in SEO.jpg
 thumb_img_alt: A motorcycle in a forest
 content_img_path: /images/What is a Slug in SEO.jpg
