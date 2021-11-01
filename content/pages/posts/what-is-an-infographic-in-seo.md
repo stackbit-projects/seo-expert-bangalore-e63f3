@@ -10,7 +10,7 @@ thumb_img_alt: A man sitting at the table
 content_img_path: /images/What is an Infographic in SEO.jpg
 content_img_alt: A man sitting at the table
 seo:
-  title: The Advantages and Disadvantages of Working from Home
+  title: What is an Infographic in SEO?
   description: Work at home parent is an entrepreneur who works from home
   extra:
     - name: 'og:type'
