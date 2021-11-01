@@ -94,7 +94,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Fresh Theme
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: >-
+        The Best SEO Expert in Bangalore. Besides Karnataka and Bangalore, he
+        provides SEO and digital marketing services India wide.
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
