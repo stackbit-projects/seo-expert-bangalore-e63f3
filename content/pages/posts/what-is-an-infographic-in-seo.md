@@ -29,7 +29,7 @@ seo:
         simplifies a message and conveys it to your audience quickly.
       keyName: property
     - name: 'og:image'
-      value: images/9.jpg
+      value: /images/What is an Infographic in SEO.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
