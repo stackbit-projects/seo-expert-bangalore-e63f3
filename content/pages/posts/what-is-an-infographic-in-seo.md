@@ -23,7 +23,10 @@ seo:
       value: What is an Infographic in SEO?
       keyName: property
     - name: 'og:description'
-      value: Work at home parent is an entrepreneur who works from home
+      value: >-
+        An infographic is a visual representation of content. Simply put, it is
+        an ‘information graphic’. It is a combination of images and text that
+        simplifies a message and conveys it to your audience quickly.
       keyName: property
     - name: 'og:image'
       value: images/9.jpg
