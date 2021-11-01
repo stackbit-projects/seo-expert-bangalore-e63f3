@@ -73,17 +73,16 @@ It is always recommended to customize your slugs based on the content you’ve w
 
 A good slug can have a positive effect on your SEO. It allows you to,
 
-> **Add keywords in the URL:**
->
-> You can modify the slug to fit in the keywords you want to rank for.This makes it easy for search enginesto index your page and rank it properly. Search engines mimic the way users respond to search results. So, if you want your pages to show up for user queries, then adding the keyword in the slug is one way to ensure it happens.
+**Add keywords in the URL:**
+You can modify the slug to fit in the keywords you want to rank for. This makes it easy for search engines to index your page and rank it properly. Search engines mimic the way users respond to search results. So, if you want your pages to show up for user queries, then adding the keyword in the slug is one way to ensure it happens.
 
-> **Create attractive URLs:**
->
-> Your URL is one of the main things users will see on SERPs. If your URL offers a clear picture of what your page is about, then users will obviously choose your page to visit rather than anyone else’s.
+**Create attractive URLs:**
 
-> **Tell users about your page:**
->
-> One of the easiest ways to show users your content before they even open the page is to put what it’s about in the slug. This way, you attract the right kind of users who are actually interested in what you have to say.
+Your URL is one of the main things users will see on SERPs. If your URL offers a clear picture of what your page is about, then users will obviously choose your page to visit rather than anyone else’s.
+
+**Tell users about your page:**
+
+One of the easiest ways to show users your content before they even open the page is to put what it’s about in the slug. This way, you attract the right kind of users who are actually interested in what you have to say.
 
 ### How to optimize URL slugs?
 
