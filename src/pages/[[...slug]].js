@@ -29,4 +29,4 @@ export async function getStaticProps({ params }) {
     return { props };
 }
 
-export asyncdefault withRemoteDataUpdates(Page);
+export async function default withRemoteDataUpdates(Page);
