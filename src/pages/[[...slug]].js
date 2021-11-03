@@ -16,7 +16,7 @@ class Page extends React.Component {
     }
 }
 
-export asyn function getStaticPaths() {
+export async function getStaticPaths() {
     console.log('Page [...slug].js getStaticPaths');
     const paths = await sourcebitDataClient.getStaticPaths();
     return { paths, fallback: false };
