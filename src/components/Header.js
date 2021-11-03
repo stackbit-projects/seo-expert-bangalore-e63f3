@@ -123,7 +123,7 @@ export default class Header extends React.Component {
                             {profileImg && (
                                 <p className="profile">
                                     <Link href={withPrefix('/')}>
-                                        <img src={withPrefix(profileImg)} className="avatar" alt={profileImgAlt} width="50px" height="px" />
+                                        <img src={withPrefix(profileImg)} className="avatar" alt={profileImgAlt} width="50px" height="50px" />
                                     </Link>
                                 </p>
                             )}
