@@ -3,7 +3,7 @@ title: What Role Does Content Length Play in Google Rankings?
 excerpt: >-
   Are higher search rankings on Google more likely to be achieved with a larger
   word count? Read on to find out.
-date: '2021-11-01'
+date: '2021-11-06'
 thumb_img_path: /images/seo copywriting.jpg
 thumb_img_alt: A man sitting at the table
 content_img_path: /images/seo copywriting.jpg
