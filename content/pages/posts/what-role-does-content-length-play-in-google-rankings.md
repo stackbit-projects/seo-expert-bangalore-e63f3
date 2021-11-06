@@ -7,7 +7,7 @@ excerpt: >-
 date: '2021-11-01'
 thumb_img_path: /images/What is an Infographic in SEO.jpg
 thumb_img_alt: A man sitting at the table
-content_img_path: /images/What is an Infographic in SEO.jpg
+content_img_path: /images/seo copywriting.jpg
 content_img_alt: A man sitting at the table
 seo:
   title: What is an Infographic in SEO?
