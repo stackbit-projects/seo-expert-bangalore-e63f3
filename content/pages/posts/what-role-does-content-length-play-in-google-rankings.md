@@ -10,7 +10,7 @@ thumb_img_alt: A man sitting at the table
 content_img_path: /images/seo copywriting.jpg
 content_img_alt: A man sitting at the table
 seo:
-  title: What is an Infographic in SEO?
+  title: What Role Does Content Length Play in Google Rankings?
   description: >-
     An infographic is a visual representation of content. Simply put, it is an
     ‘information graphic’. It is a combination of images and text that
