@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: What is an Infographic in SEO?
+      value: What Role Does Content Length Play in Google Rankings?
     - name: 'twitter:description'
       value: >-
         An infographic is a visual representation of content. Simply put, it is
