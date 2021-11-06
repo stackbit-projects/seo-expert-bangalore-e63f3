@@ -1,9 +1,8 @@
 ---
 title: What Role Does Content Length Play in Google Rankings?
 excerpt: >-
-  An infographic is a visual representation of content. Simply put, it is an
-  ‘information graphic’.It is a combination of images and text that simplifies a
-  message and conveys it to your audience quickly.
+  Are higher search rankings on Google more likely to be achieved with a larger
+  word count? Read on to find out.
 date: '2021-11-01'
 thumb_img_path: /images/What is an Infographic in SEO.jpg
 thumb_img_alt: A man sitting at the table
