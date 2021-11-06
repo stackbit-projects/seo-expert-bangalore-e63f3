@@ -39,7 +39,7 @@ seo:
         Are higher search rankings on Google more likely to be achieved with a
         larger word count? Read on to find out.
     - name: 'twitter:image'
-      value: /images/What is an Infographic in SEO.jpg
+      value: /images/seo copywriting.jpg
       relativeUrl: true
 layout: post
 ---
