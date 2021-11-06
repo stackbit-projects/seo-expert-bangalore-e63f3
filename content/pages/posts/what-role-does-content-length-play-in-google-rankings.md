@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: What is an Infographic in SEO?
+      value: What Role Does Content Length Play in Google Rankings?
       keyName: property
     - name: 'og:description'
       value: >-
