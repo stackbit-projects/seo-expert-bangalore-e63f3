@@ -27,7 +27,7 @@ seo:
         larger word count? Read on to find out.
       keyName: property
     - name: 'og:image'
-      value: /images/What is an Infographic in SEO.jpg
+      value: /images/seo copywriting.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
