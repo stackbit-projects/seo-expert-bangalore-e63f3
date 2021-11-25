@@ -95,17 +95,7 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "\r\nAs an SEO expert, I have led internal teams and provided strategic guidance in many successful campaigns, both online and offline. I have also demonstrated my ability to drive sales and increase brand awareness. I bring the best of the best digital strategies to your table. So, if you’re searching for a brilliant SEO expert or a top freelance digital marketing service in Bangalore, your search ends here.\r\nOver 10 years of experience as an SEO expert and consultant in Bangalore\r\nProven track record of running successful marketing campaigns for start-ups, small companies, and local businesses\r\nLow-cost services with high-end returns\r\nIndependent consultant without any added frills or costs\r\nGet more than what you pay for\r\nA single source for all your digital marketing needs\r\nPick and choose the services you want\r\nGet ranked on the first page of Google\n"
     actions: []
     type: section_content
 seo:
