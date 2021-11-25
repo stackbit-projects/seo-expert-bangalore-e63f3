@@ -28,42 +28,7 @@ sections:
   - title: My eXPERTISE
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >
-      ### I specialize in search engine optimization.
-
-
-      There are so many changes in SEO that you cannot stay on top of it without
-      a specialist. Search engine optimization is not something I do on the side
-      as a generalist digital marketer. SEO is all that I do. Keeping up to date
-      with the latest information and strategies enables me to stay on top of
-      the latest developments.
-
-
-      ### I have ranked websites in several industries.
-
-
-      I have worked with a variety of businesses in multiple industries,
-      including doctors, builders, lawyers, and ecommerce stores, and I
-      consistently get great rankings for them. My SEO strategies and campaigns
-      are focused on profits and quality. You can be sure that your investment
-      in my search engine services is taken very seriously and that I focus on
-      generating long-term revenue from keywords that will bring you more sales.
-
-
-      ### I provide monthly SEO reports that are easy to understand.
-
-
-      Get monthly search ranking reports and access to your own live ranking
-      dashboard for your business.
-
-
-      ### Contact me at any time.
-
-
-      If you have questions or concerns about your website or SEO services, you
-      can always reach out to me. Because I'm an SEO consultant, I don't charge
-      big SEO agency prices because I don't have a big team or office. I am a
-      freelance seo expert which means I can pass the savings onto you.
+    content: "*   **SEO Strategy Planning\r    :** Getting into the mind of your users to give them what they’re looking for.\r\n\n\n*   **SEO Copywriting Services\r    **: Catchy and effective ad campaigns that’ll bring your audience to your website.\r\n\n\n*   **Local SEO Services\r    :** Providing your users content locally when they actually need it.\r\n\n\n*   **Keyword Research Services\r    :** Discover what to say to your audience and how to say it.\r\n\n\n*   **Onsite and Offsite Services\r    :** Getting your website organized from within and outside your web pages.\r\n\n\n*   **Conversion Optimization\r    :** Improving conversions by optimizing content and SEO.\r\n\n\n*   **Web Analytics Consultation\r    :** Detailed reporting on how people are using your website.\r\n\n\n*   **Google AdWords Service:**\r     Campaigns to generate quality leads and improve your business.\r\n\n\n*   **Website Audit Reports\r    :** Reports on why your website isn’t giving you the right results.\n"
     actions: []
     type: section_content
 seo:
