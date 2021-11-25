@@ -50,7 +50,7 @@ sections:
       reporting.
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: How does it work
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
