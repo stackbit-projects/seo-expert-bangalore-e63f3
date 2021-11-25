@@ -58,11 +58,11 @@ sections:
 
       >
 
-      >  Fill in your name, contact number, email ID, company name, and company
+      > Fill in your name, contact number, email ID, company name, and company
       website. I’ll contact you within 24 hours.
 
 
-      > **Telephonic discussion: **
+      > **Telephonic discussion:**
 
       >
 
@@ -74,7 +74,7 @@ sections:
 
       >
 
-      >  Work commencement on your SEO requirements after agreement and delivery
+      > Work commencement on your SEO requirements after agreement and delivery
       of the same within the stipulated time.
 
 
@@ -82,7 +82,7 @@ sections:
 
       >
 
-      >  If required, I will provide continuous support and help keep your
+      > If required, I will provide continuous support and help keep your
       digital visibility afloat with my on-going SEO services.
     actions: []
     type: section_content
