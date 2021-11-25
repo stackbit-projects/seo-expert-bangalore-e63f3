@@ -6,9 +6,8 @@ sections:
     type: section_hero
     title: 'SEO Expert in Bangalore, India'
     content: >
-      Does Your Website Qualify to Rank on Page 1 of Google?. I use cutting-edge
-      SEO tactics that actually rank your website. Boost your online business
-      today. Let’s start a conversation
+      I bring my creative and strategic experience together to offer the best
+      SEO services for your business.
   - section_id: about
     type: section_content
     title: About
