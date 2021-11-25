@@ -107,17 +107,7 @@ sections:
   - title: About My SEO Strategies
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "I will prioritize understanding you and your business before we begin transforming it. We dig deep into your goals and construct effective strategies for growth.\r\n\n\nI will then begin deconstructing the history of your current SEO/Digital Marketing strategy to analyse pain points and areas of improvement. This, of course, varies based on the type of business we’re analysing. I also look at what your competitors are doing and assess their digital marketing efforts with respect to the industry.\r\n\n\nPost our analysis, I will create a fresh strategy that’s inclined to your goals and future digital trends. Once the strategy is approved, I begin implementing the solutions. I keep track of your website’s progress and provide reports on a regular basis. I also modify and update the solutions depending on market trends and customer feedback.\r\n\n\nTherefore, I create multiple levels of marketing that’ll maximize the visibility of your business online and provide profitable returns.\n"
     actions: []
     type: section_content
 seo:
