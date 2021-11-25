@@ -116,6 +116,22 @@ sections:
     content: "Bangalore is one of the major metropolitans in India, hosting and catering to a wide array of businesses. The primary domains that have made Bangalore their home include IT, retail, e-commerce, marketing, and finance. Industry bigwigs such as Amazon, Flipkart, Ola, Uber, and many such have set up office space here. Having such companies that offer similar services means competition between them is high and they, being digital businesses, employ marketing to their advantage to stay on top of their game.\n\nTherefore, yours may be a business that offers the same services as another but how do you stay ahead of your competition? By upping your digital marketing game, of course.\n\nSEO, when done right, will radically change the game in your favour. It helps you understand your customers, see what they like, analyse their journey, and provide services accordingly.\n\nThere still are a number of businesses who have not made a shift to digital and thus, are still behind when it comes to growth and revenue. Companies like this lose relevance and fade out of business quickly. Switching to digital late may give you a competitive disadvantage, which will reduce your market share significantly. Also, without understanding what your customers want, you’ll never know which direction to grow in. Going digital will help you reduce costs and increase growth.\n\n**YOU SHOULD MOVE YOUR BUSINESS TO DIGITAL TODAY; YOUR COMPETITORS ALREADY HAVE.**\n\n\rInitially, businesses such as hotels, motels, banquet halls, restaurants, event organizers, retail shop mostly offered their services directly from their location i.e. a physical store or office. Their customers had to meet representatives in person for even simple tasks such as getting a quote. Without having an online presence, such businesses suffer from lack of customers and ring in losses. By going online, they can reach out to more and more customers and offer additional services that will improve their market value.\n\n\rIf you are one of these businesses that do not have a strong online presence and have absolutely no idea how to expand your digital footprint, we’re here for you. We use advanced methods to assess your target audience and bring them to you. Our strategies are tailored to your needs, goals, resources, and budget to get the most profit out of your services.\n\n\rThere aren’t many agencies who will offer freelance digital marketing in Bangalore. Most of them provide “packages” with services that you may or may not need. Later, you end up paying more for solutions that you could have used for a fraction of the price. That’s why we do a complete analysis of your website and business before suggesting any service.\n"
     actions: []
     type: section_content
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: section_content
 seo:
   title: >-
     SEO Expert in Bangalore | Freelance SEO & Digital Marketing Consultant in
