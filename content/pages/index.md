@@ -86,7 +86,7 @@ sections:
       digital visibility afloat with my on-going SEO services.
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: Testimonials
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
