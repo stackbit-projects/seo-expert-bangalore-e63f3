@@ -12,16 +12,14 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >
-      Vijay Kumar is an SEO expert in Bangalore, who understands what really
-      matters and applies it. In a field that's often filled with empty
-      promises, it's refreshing to find someone trustworthy who delivers. As a
-      Google organic SEO consultant and search engine visibility specialist for
-      more than a decade, I have helped hundreds of local companies and
-      businesses throughout India. Using data-driven and evidence-based
-      techniques, my SEO method is a process that compounds over time. In order
-      to formulate a road map for the SEO campaign, I reverse engineer the top
-      ranking websites in your field.
+    content: >+
+      Vijay Kumar C, MBA graduate, has over a decade of experience in the field
+      of digital marketing (SEM/SEO/SMO). As a marketing consultant, he helped
+      start-up companies and large corporations expand their portfolios. His
+      skillset includes paid marketing, SEO, Google Tag Manager, Data Studio,
+      Facebook, and CRM Database. He has worked with some of India's leading
+      online e-commerce websites.
+
     actions:
       - label: Contact Me
         url: /contact
