@@ -98,16 +98,16 @@ sections:
     content: "As an SEO expert, I have led internal teams and provided strategic guidance in many successful campaigns, both online and offline. I have also demonstrated my ability to drive sales and increase brand awareness. I bring the best of the best digital strategies to your table. So, if you’re searching for a brilliant SEO expert or a top freelance digital marketing service in Bangalore, your search ends here.\n\n\n\n*   Over 10 years of experience as an SEO expert and consultant in Bangalore\r\n\n\n*   Proven track record of running successful marketing campaigns for start-ups, small companies, and local businesses\r\n\n\n*   Low-cost services with high-end returns\r\n\n\n*   Independent consultant without any added frills or costs\r\n\n\n*   Get more than what you pay for\r\n\n\n*   A single source for all your digital marketing needs\r\n\n\n*   Pick and choose the services you want\r\n\n\n*   Get ranked on the first page of Google\n"
     actions: []
     type: section_content
-  - title: Freelance SEO Services in Bangalore
-    section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: "If there’s anything that a business needs to grow and thrive, it’s a strong online presence. Many small and medium businesses have found immense success by going digital. A user-friendly website, a clear outline of the company’s services coupled with a good SEO strategy can make a huge difference in both growth and revenue.\r\n\n\nMy small team consists of experts who have been in the digital marketing game for over a decade. We have brought our creative and strategic minds together to offer our talent and services to businesses. We’ve worked with some of top ecommerce websites in India and have created winning strategies for their growth. We have also engaged with start-ups and developed their entire digital marketing blueprint.\r\n\n\nOur strategy for SEO is simple – Analyse, Empathize, Create, And Engage; analyse the need, empathize with the user, create the service, and engage to build a lasting relationship.\n"
-    actions: []
-    type: section_content
   - title: About My SEO Strategies
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: "I will prioritize understanding you and your business before we begin transforming it. We dig deep into your goals and construct effective strategies for growth.\r\n\n\nI will then begin deconstructing the history of your current SEO/Digital Marketing strategy to analyse pain points and areas of improvement. This, of course, varies based on the type of business we’re analysing. I also look at what your competitors are doing and assess their digital marketing efforts with respect to the industry.\r\n\n\nPost our analysis, I will create a fresh strategy that’s inclined to your goals and future digital trends. Once the strategy is approved, I begin implementing the solutions. I keep track of your website’s progress and provide reports on a regular basis. I also modify and update the solutions depending on market trends and customer feedback.\r\n\n\nTherefore, I create multiple levels of marketing that’ll maximize the visibility of your business online and provide profitable returns.\n"
+    actions: []
+    type: section_content
+  - title: Freelance SEO Services in Bangalore
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: "If there’s anything that a business needs to grow and thrive, it’s a strong online presence. Many small and medium businesses have found immense success by going digital. A user-friendly website, a clear outline of the company’s services coupled with a good SEO strategy can make a huge difference in both growth and revenue.\r\n\n\nMy small team consists of experts who have been in the digital marketing game for over a decade. We have brought our creative and strategic minds together to offer our talent and services to businesses. We’ve worked with some of top ecommerce websites in India and have created winning strategies for their growth. We have also engaged with start-ups and developed their entire digital marketing blueprint.\r\n\n\nOur strategy for SEO is simple – Analyse, Empathize, Create, And Engage; analyse the need, empathize with the user, create the service, and engage to build a lasting relationship.\n"
     actions: []
     type: section_content
 seo:
