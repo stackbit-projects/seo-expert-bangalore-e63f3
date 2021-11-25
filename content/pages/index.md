@@ -113,17 +113,7 @@ sections:
   - title: Freelance seo Services in Bangalore
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "Bangalore is one of the major metropolitans in India, hosting and catering to a wide array of businesses. The primary domains that have made Bangalore their home include IT, retail, e-commerce, marketing, and finance. Industry bigwigs such as Amazon, Flipkart, Ola, Uber, and many such have set up office space here. Having such companies that offer similar services means competition between them is high and they, being digital businesses, employ marketing to their advantage to stay on top of their game.\n\n\r\nTherefore, yours may be a business that offers the same services as another but how do you stay ahead of your competition? By upping your digital marketing game, of course.\n\n\r\nSEO, when done right, will radically change the game in your favour. It helps you understand your customers, see what they like, analyse their journey, and provide services accordingly.\n\n\r\nThere still are a number of businesses who have not made a shift to digital and thus, are still behind when it comes to growth and revenue. Companies like this lose relevance and fade out of business quickly. Switching to digital late may give you a competitive disadvantage, which will reduce your market share significantly. Also, without understanding what your customers want, you’ll never know which direction to grow in. Going digital will help you reduce costs and increase growth.\n"
     actions: []
     type: section_content
 seo:
