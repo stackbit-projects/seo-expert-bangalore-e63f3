@@ -25,7 +25,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
-  - title: My eX
+  - title: My eXPERTISE
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
