@@ -19,6 +19,8 @@ sections:
       His skillset includes paid marketing, SEO, Google Tag Manager, Data
       Studio, Facebook, and CRM Database. He has worked with some of India's
       leading online e-commerce websites.
+
+      ![](/images/certified%20seo%20expert%20in%20bangalore.jpg)
     actions:
       - label: Contact Me
         url: /contact
