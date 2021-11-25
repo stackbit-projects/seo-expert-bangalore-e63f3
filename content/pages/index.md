@@ -89,17 +89,7 @@ sections:
   - title: Testimonials
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "Vijay has helped my company improve its ranking on Google and developed a strong SEO strategy to ensure it stays on page 1 of search engines. All I want to say is thank you for the quality work.\r\n \\- **Prasanna Nagiripati**\r\n\n\nThe most important quality I found in Vijay is that he would never say no to any challenges thrown at him. He is ready to wear different hats if his job demands. He is technically very sound and is always ready to learn new things. He is very good in multitasking and knows how to get work done.\n** - Kumar Garv**\n\nVijay is extremely professional in all his holding. Google is like his baby whom he would feed with best SEO tactics and technologies to keep it interested in the project he is working for. And yes, he is an avid reader. Writers, be aware! If you think you do leave behind few blunders and you think you will escape, let me tell you his eyes are always looking for the tiniest of details in your writing! Vijay is a gem of an employee for the marketing team... Vijay, hope your digital prowess is recognized and appreciated. May you have a bright future ahead :)\n** - Shilpi Saha**\n\nVijay is very dedicated at his work. improved our website visibility in Google within very short time.\n **- Shankar Prasad**\n\n\n\n\n"
     actions: []
     type: section_content
 seo:
