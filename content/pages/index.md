@@ -131,7 +131,13 @@ sections:
   - title: Latest blogs
     section_id: blog
     posts_number: 4
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
     type: section_posts
 seo:
   title: >-
