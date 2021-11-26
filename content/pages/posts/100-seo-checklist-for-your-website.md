@@ -9,8 +9,8 @@ content_img_alt: A man sitting at the table
 seo:
   title: 100 SEO Checklist for Your Website
   description: >-
-    Are higher search rankings on Google more likely to be achieved with a
-    larger word count? Read on to find out.
+    Here’s an 100 SEO checklist for you to start building your website and
+    creating content for your target audience.
   extra:
     - name: 'og:type'
       value: article
