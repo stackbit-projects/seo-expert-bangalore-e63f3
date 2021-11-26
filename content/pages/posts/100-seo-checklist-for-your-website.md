@@ -36,7 +36,7 @@ seo:
         Here’s an 100 SEO checklist for you to start building your website and
         creating content for your target audience.
     - name: 'twitter:image'
-      value: /images/seo copywriting.jpg
+      value: /images/100-seo-checklist.jpg
       relativeUrl: true
 layout: post
 ---
