@@ -129,7 +129,7 @@ sections:
     actions: []
     type: section_content
   - title: Latest blogs
-    section_id: lorem-ipsum
+    section_id: blog
     posts_number: 4
     actions: []
     type: section_posts
