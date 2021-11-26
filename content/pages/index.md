@@ -128,6 +128,21 @@ sections:
     content: "**Why hire an SEO consultant vs. an SEO company?**\n\n\rBy hiring an SEO consultant, you eliminate the process of dealing with middle-men and managers and interact directly with the professional in-charge of your needs. Additionally, a consultant will charge you a lower fee than an agency, which helps you maintain your operational costs whilst getting end-to-end SEO solutions for your business.\n\n**Do you provide guaranteed results?**\n\nI guarantee to provide effective solutions that will improve your SEO ranking, digital visibility, and website traffic. Furthermore, I will also monitor and analyse your site on a regular basis to continuously maintain your online reputation.\n\n**How long will it take to see results?**\n\n\rSEO and Digital Marketing are processes that evolve over time. Results will vary from business to business, the goals you’ve set for your online strategy, and your budget. With the right analysis and SEO strategy, you should be able to see results fairly early.\n\n**What SEO reporting is included?**\n\n\rMy SEO reports will offer monthly or weekly analysis of how your website is performing. A few parameters that’ll be included in the report are traffic via all online channels, conversion rates, page-level traffic, page speed, visitor browsing time, bounce rate, inbound and outbound links, and Google/SERP rankings.\n\n**What is the cost of each service?**\n\n\rEach business has different SEO needs and goals to achieve. Pricing depends on these requirements. Send an email to contact@seoexpertbengaluru.com or call (+91) 98866 21210 for a customized quote.\n"
     actions: []
     type: section_content
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: section_hero
 seo:
   title: >-
     SEO Expert in Bangalore | Freelance SEO & Digital Marketing Consultant in
