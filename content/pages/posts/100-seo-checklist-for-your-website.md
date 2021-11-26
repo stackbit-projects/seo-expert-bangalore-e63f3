@@ -33,8 +33,8 @@ seo:
       value: 100 SEO Checklist for Your Website
     - name: 'twitter:description'
       value: >-
-        Are higher search rankings on Google more likely to be achieved with a
-        larger word count? Read on to find out.
+        Here’s an 100 SEO checklist for you to start building your website and
+        creating content for your target audience.
     - name: 'twitter:image'
       value: /images/seo copywriting.jpg
       relativeUrl: true
