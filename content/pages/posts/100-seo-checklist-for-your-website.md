@@ -16,7 +16,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: What Role Does Content Length Play in Google Rankings?
+      value: 100 SEO Checklist for Your Website
       keyName: property
     - name: 'og:description'
       value: >-
