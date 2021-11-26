@@ -20,8 +20,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Are higher search rankings on Google more likely to be achieved with a
-        larger word count? Read on to find out.
+        Here’s an 100 SEO checklist for you to start building your website and
+        creating content for your target audience.
       keyName: property
     - name: 'og:image'
       value: /images/seo copywriting.jpg
