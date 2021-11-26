@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: What Role Does Content Length Play in Google Rankings?
+      value: 100 SEO Checklist for Your Website
     - name: 'twitter:description'
       value: >-
         Are higher search rankings on Google more likely to be achieved with a
