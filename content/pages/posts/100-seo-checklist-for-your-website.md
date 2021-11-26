@@ -24,7 +24,7 @@ seo:
         creating content for your target audience.
       keyName: property
     - name: 'og:image'
-      value: /images/seo copywriting.jpg
+      value: /images/100-seo-checklist.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
