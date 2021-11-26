@@ -3,7 +3,8 @@ title: 100 SEO Checklist for Your Website
 excerpt: >-
   SEO (Search Engine Optimization) plays a key role in improving your website’s
   visibility, usability, relevance, and user experience. It also helps you
-  create content that people want to consume.
+  create content that people want to consume. Here’s an SEO checklist for you to
+  start building your website and creating content for your target audience.
 date: '2021-11-06'
 thumb_img_path: /images/100-seo-checklist.jpg
 thumb_img_alt: A man sitting at the table
