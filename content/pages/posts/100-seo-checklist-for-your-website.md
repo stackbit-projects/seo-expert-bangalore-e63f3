@@ -4,7 +4,7 @@ excerpt: "Are higher search rankings on Google more likely to be achieved with a
 date: '2021-11-06'
 thumb_img_path: /images/seo copywriting.jpg
 thumb_img_alt: A man sitting at the table
-content_img_path: /images/seo copywriting.jpg
+content_img_path: /images/100-seo-checklist.jpg
 content_img_alt: A man sitting at the table
 seo:
   title: What Role Does Content Length Play in Google Rankings?
