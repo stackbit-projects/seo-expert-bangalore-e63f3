@@ -1,5 +1,5 @@
 ---
-title: 100 SEO Checklist for Your Website
+title: What is Press Release in SEO
 excerpt: >-
   SEO (Search Engine Optimization) plays a key role in improving your website’s
   visibility, usability, relevance, and user experience. It also helps you
