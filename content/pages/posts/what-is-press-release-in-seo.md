@@ -28,7 +28,7 @@ seo:
         provides latest news about its products and services. 
       keyName: property
     - name: 'og:image'
-      value: /images/100-seo-checklist.jpg
+      value: /images/what is press release in seo.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
