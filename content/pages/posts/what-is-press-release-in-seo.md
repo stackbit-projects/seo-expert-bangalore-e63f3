@@ -8,7 +8,7 @@ excerpt: >-
 date: '2021-11-06'
 thumb_img_path: /images/100-seo-checklist.jpg
 thumb_img_alt: A man sitting at the table
-content_img_path: /images/100-seo-checklist.jpg
+content_img_path: /images/what is press release in seo.jpg
 content_img_alt: A man sitting at the table
 seo:
   title: 100 SEO Checklist for Your Website
