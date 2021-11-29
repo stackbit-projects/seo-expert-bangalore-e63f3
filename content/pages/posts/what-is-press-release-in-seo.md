@@ -1,10 +1,8 @@
 ---
 title: What is Press Release in SEO
 excerpt: >-
-  SEO (Search Engine Optimization) plays a key role in improving your website’s
-  visibility, usability, relevance, and user experience. It also helps you
-  create content that people want to consume. Here’s an SEO checklist for you to
-  start building your website and creating content for your target audience.
+  SEO press release helps create buzz about what a company is doing and provides
+  latest news about its products and services.
 date: '2021-11-06'
 thumb_img_path: /images/what is press release in seo.jpg
 thumb_img_alt: A man sitting at the table
