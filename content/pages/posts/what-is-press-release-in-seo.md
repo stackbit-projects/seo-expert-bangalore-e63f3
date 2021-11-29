@@ -40,7 +40,7 @@ seo:
         SEO press release helps create buzz about what a company is doing and
         provides latest news about its products and services. 
     - name: 'twitter:image'
-      value: /images/100-seo-checklist.jpg
+      value: /images/what is press release in seo.jpg
       relativeUrl: true
 layout: post
 ---
