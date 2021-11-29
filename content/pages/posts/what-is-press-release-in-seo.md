@@ -13,8 +13,8 @@ content_img_alt: A man sitting at the table
 seo:
   title: 'What is Press Release in SEO? '
   description: >-
-    Here’s an 100 SEO checklist for you to start building your website and
-    creating content for your target audience.
+    SEO press release helps create buzz about what a company is doing and
+    provides latest news about its products and services. 
   extra:
     - name: 'og:type'
       value: article
