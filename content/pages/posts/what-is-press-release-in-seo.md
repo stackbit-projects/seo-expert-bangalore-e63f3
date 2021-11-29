@@ -11,7 +11,7 @@ thumb_img_alt: A man sitting at the table
 content_img_path: /images/what is press release in seo.jpg
 content_img_alt: A man sitting at the table
 seo:
-  title: 100 SEO Checklist for Your Website
+  title: 'What is Press Release in SEO? '
   description: >-
     Here’s an 100 SEO checklist for you to start building your website and
     creating content for your target audience.
