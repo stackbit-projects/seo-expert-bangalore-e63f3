@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 100 SEO Checklist for Your Website
+      value: 'What is Press Release in SEO? '
       keyName: property
     - name: 'og:description'
       value: >-
