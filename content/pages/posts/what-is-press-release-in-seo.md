@@ -44,314 +44,59 @@ seo:
       relativeUrl: true
 layout: post
 ---
-SEO (Search Engine Optimization) plays a key role in improving your website’s visibility, usability, relevance, and user experience. It also helps you create content that people want to consume. Therefore, creating content with SEO in mind will help you gain a loyal following and establish your website as a reputable source of information.
+The advent of the digital era has completely transformed the way we are consuming information. What hasn’t changed is the need for it. As more and more channels open up for sharing content, we delve deeper and deeper into the depths of the digital realm.
 
-Here’s an SEO checklist for you to start building your website and creating content for your target audience.
+Traditional news has taken a nosedive and given rise to online news. No longer are people glued to their television screens for news. Their screens have ‘smartly’ morphed into online portals of immediate information.
 
+![](/images/News%20Consumption%20Generational%20Divide.jpg)
 
-1.  Spend time choosing the right niche for your products or services or content.
+At such a time, companies and businesses look to digital media to share updates and news about their products, services, acquisitions, mergers, etc. In days gone by, companies circulated press releases through television or newspapers. Nowadays, since almost everything is online, press releases have made the transition to digital.
 
+## What is a press release?
 
-2.  Decide what’ll work for you – a website or a blog.
+Press releases are PR exercises employed by companies to inform users of what they are working on and other developments.
 
+However, from an SEO standpoint, one does wonder, “what exactly is the use of a press release in SEO? And does it really matter?”
 
-3.  Use popular Content Management Systems such as WordPress or Blogger as they are UI friendly.
+In fact, it does. Press releases are not particularly SEO techniques. They are primarily used for brand-building and reputation management. When done right, a press release can generate buzz around your brand, direct a lot of traffic to your website, and create journalistic interest. A press release mainly deals with the usefulness of the news rather than SEO.
 
+But as an SEO expert, it would be uncharacteristic of you to not take advantage of this feature and make it worth the publish.
 
-4.  Finalize a name for your website that’ll represent what you do and who you are.
+## How does a press release help with SEO?
 
+An SEO press release may not have the power a blog post or article might, but it does help in a few ways.
 
-5.  Check domain name availability online and on social media using www.namechk.com.
 
+*   Building quality backlinks: Any SEO expert will tell you that backlinks are crucial for traffic-generation. Just like you have social bookmarking sites to submit links, there are multiple press release submission sites that will host your content as well as provide valuable backlinks to your website.
 
-6.  Buy your final domain name from websites like GoDaddy or BigRock.
 
+*   Boosting traffic: By adding the right keywords and linking from press release submission sites, you can boost traffic to your website.
 
-7.  Create an attention grabbing, simple, and easy-to-remember logo.
 
+*   More traffic means more sales: The whole point of SEO is to market your company’s products and services so that users will buy them. The more users see your products, the more likely are they to make a purchase.
 
-8.  Add a favicon to your website. You can create a favicon at www.favicon.com for free.
 
+*   Building online reputation: Regular news updates tell users about the work your company is doing, thus building a reputation. This adds to your company’s credibility.
 
-9.  Reserve an email address to secure your brand before anyone else (Ex: yoursite-name@gmail.com or example@yoursitename.com).
+## Drawbacks of press release submissions
 
+An SEO press release does not have the same value as social bookmarking or high PR directory submissions. The approach to all these SEO techniques is the same but the results are vastly different.
 
-10. If your website doesn’t have a blog, create one in WordPress or Blogger and share your content updates.
+The main disadvantage of a press release is that it becomes obsolete almost immediately. If you publish a press release on Monday, it will have become old news by Tuesday. And no one wants to read old news.
 
+Think about it!
 
-11. Create an attractive banner and logo for your blog profile.
+Will you read news about the Nokia 1100 that was released over a decade ago? Unless it is being relaunched, you wouldn’t even click on the link. Why Nokia 1100? Take news about the Apple iPhone X, launched two years ago. Would you read it now? The answer is plain and simple. No.
 
+Unlike blog posts and articles that evolve with time and technology, press releases fade away as the days pass by.
 
-12. Add social media sharing buttons on your blog posts.
+## Is it worth writing a press release for SEO?
 
+Considering all that I’ve discussed, we come back to the same question, “does a press release really matter in SEO?”
+The jury is divided on this.
 
-13. Install security plugins on your website to prevent hackers from attacking.
+One side says that getting backlinks through press release submission sites makes it a good contender for SEO. The other side looks at its short life span and doesn’t bother dealing with it at all.
 
+In conclusion, I would say this.
 
-14. Install All in One SEO if you are using WordPress.
-
-
-15. Create an XML sitemap for your website.
-
-
-16. Add a Search Bar on your website so users can easily and quickly search for content.
-
-
-17. Add a clearly visible “Subscribe” pop-up or button on the website.
-
-
-18. Add an SSL certificate to your website.
-
-
-19. Setup an RSS feed for your blog.
-
-
-20. Add breadcrumbs and relevant schema code to show rich snippets in Google search results.
-
-
-21. Create a customized 404 page to guide lost users to the right pages of your website.
-
-
-22. Setup Google Analytics for your website.
-
-
-23. Ensure your website is mobile-friendly using Google’s Mobile-Friendly Test.
-
-
-24. Add your address, contact information, and a privacy policy in the footer of your website.
-
-
-25. Add a Google My Business link in the footer.
-
-
-26. Add your website address in your email signatures.
-
-
-27. Don’t try to write on everything. Be specific. It will help you rank quickly.
-
-
-28. Research your topics and content thoroughly.
-
-
-29. Write fresh content. Do not copy.
-
-
-30. Write on current issues, upcoming events, and latest updates in your niche to increase readership.
-
-
-31. Brainstorm a minimum of 25–50 topics to write about.
-
-
-32. Do a keyword research to find at least 5 low-competition and high-traffic keywords for your     topics.
-
-
-33. Use free keyword tools like www.keywordtool.io or UberSuggest to find longtail keywords which can rank faster.
-
-
-34. Use the final five keywords in the title of the main page, meta title & description, and keyword section.
-
-
-35. Plan at least 3–5 posts for each keyword.
-
-
-36. Finalize one keyword for your post and ensure you use it in the URL, title, description, and headers.
-
-
-37. Ensure the URL of your post is SEO-optimized. Avoid auto-generated URLs.
-
-
-38. Use appropriate tags.
-
-
-39. Create drafts of your articles and schedule them to be published.
-
-
-40. Start publishing your articles. Publish at least one article per day.
-
-
-41. Create different types of content (infographics, lists, case studies, etc.) to keep readers interested.
-
-
-42. Accept quality guest posts from other writers and publish them on your website.
-
-
-
-43. Perform an SEO test to check if any steps are missing. There are many sites offering free SEO     testing.
-
-
-44. Start tracking your website on Google. Observe how your keywords rank.
-
-
-45. Use a lazy loading feature on your website to boost its loading speed.
-
-
-46. Use tools like Crazy Egg and Lucky Orange for heatmaps and live screen recordings of user     behavior on your webpage.
-
-
-47. Always check your server response time. It should be under 200ms.
-
-
-48. Ensure your webpage passes the Google Page Speed Test with an 80+ score for both mobile and     desktop.
-
-
-49. Identify high bounce rate pages and posts and modify content to decrease bounce rate.
-
-
-50. Optimize image size and quality for improved page speed and visibility.
-
-
-51. Create a Google My Business page and update your name, contact number, and address.
-
-
-52. Submit your XML site map in the Google Search Console.
-
-
-53. Create one version of your website (www or non-www) to index in Google. Every other domain should be 301-redirected to the finalized URL.
-     
-
-54. Set Preferred Domain.
-
-
-55. Stop irrelevant bots, which might slow down your site, from visiting your site again and again.
-
-
-56. Create quality outbound links.
-
-
-57. Avoid creating too many backlinks in a day.
-
-
-58. Ensure you do not link to any spam website.
-
-
-59. Use your targeted keywords in the title and descriptions when you submit your links.
-
-
-60. Avoid backlink exchange.
-
-
-61. Diversify your backlinks. Get equal proportions of “dofollow” and “nofollow” links and anchor text for keywords and brand names.
-
-
-62. Create a robots.txt file for your website to ensure search engines will not index unwanted pages.
-
-
-63. Self-audit your website at least once a month using free online SEO tools.
-
-
-64. Keep yourself updated with search engine algorithm updates and changes.
-
-
-
-65. Make your content get more shares on social media sites such as Facebook, Twitter, and YouTube.
-
-
-66. Create accounts on maximum sites with your username/website name and link to the website in your profile. Ensure all sites are high authority.
-
-
-67. Use plugins like content Lock (WordPress) to get more shares on social media sites.
-
-
-68. Add your posts to Google My Business every week.
-
-
-69. Submit website to popular business directories. See High PR Directory Submissions.
-
-
-70. Create a LinkedIn profile and share content regularly.
-
-
-71. Share your content in popular social bookmarking websites.
-
-
-72. Start a Facebook fan page and publish 2 posts per day. Mix it up with photos, text, and videos.
-
-
-73. Create a twitter account. Add your bio and website link in the profile. Tweet once a day.
-
-
-74. Create a YouTube channel to post videos. Publish at least 2 videos per week.
-
-
-75. Share pictures on Flicker, Pinterest, and Instagram.
-
-
-76. Actively post on Quora to improve your search engine rankings.
-
-
-77. Find questions related to your website or niche on Quora and answer them. Do not post your website link every time you answer.
-
-
-78. Publish at least 10 articles in high quality article submission websites with a link back to your website.
-
-
-79. Create an infographic and share it on popular infographic submission sites with a mention about your website.
-
-
-80. Create a simple and useful eBook and share it on eBook sharing websites with a link back to your website.
-
-
-81. Join at least 10 document-sharing websites like SlideShare and post your content as PDFs with a link to your website.
-
-
-82. Submit updates about your website in at least 5 press release sites.
-
-
-83. Find at least 10 .gov websites and add relevant comments with a link to your website.
-
-
-84. Find at least 10 .edu websites and add relevant comments with a link to your website.
-
-
-85. Create at least 10 backlinks from relevant websites through guest posts.
-
-
-86. Choose at least 50 relevant websites (other than the .gov and .edu ones) where you can add valuable comments with a link to your website.
-
-
-87.    Submit your website to different search engines such as DuckDuckGo, Bing, etc. Google is not the only one out there.
-
-
-88. Launch an affiliate program to generate leads.
-
-
-
-89. Use a live chat option on your website to quickly respond to user queries.
-
-
-90. Offer customers/readers top-quality content. Ask them to rate your website/business (maybe even 5-stars).
-
-
-91. Customize your website content according to each individual user’s needs.
-
-
-92. Use compelling Call-to-Actions that will make them stay on your web pages.
-
-
-93. Request for testimonials on your services or products.
-
-
-94. Participate in discussions on threads and forums and share a link to your website.
-
-
-
-95. Focus on your competitors and find their traffic-generating keywords and backlinks.
-
-
-96. Create a free WordPress theme for bloggers with your website link in the footer. You’ll get backlinks when someone installs your theme.
-
-
-97. Create a simple, useful app for your website and add it in Google Play or the App Store with a link back to your website.
-
-
-98. Create at least 10 testimonials by adding your website details from good PA/DA domains.
-
-
-99. Start submitting your website to minimum 50 high DA/PA directories.
-
-
-100.    Post at least 5 per day till you complete the 50 submissions and participate actively in at least 10 high DA/PA forums until they allow you to create your profile link and accept your website content.
-
-Search engines keep updating their terms, algorithms, content rules, SEO rules, etc. often keeping in mind the changing needs of users. This checklist is exhaustive and points will keep getting added.
-
-For more interesting content on SEO, link building, website creation, and everything else related to the internet, check out my blog. If you are a company looking to create a digital marketing strategy or planning to improve an already existing one, send me your enquiry.
+There is no harm in writing SEO press releases. See what works for your company and go with it. Follow the same procedures as you would in regular bookmarking and submit your content to credible press release submission sites. The traffic you generate may not be as high, but as the cliché goes, every little bit helps.
