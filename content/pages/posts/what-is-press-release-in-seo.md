@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 100 SEO Checklist for Your Website
+      value: 'What is Press Release in SEO? '
     - name: 'twitter:description'
       value: >-
         Here’s an 100 SEO checklist for you to start building your website and
