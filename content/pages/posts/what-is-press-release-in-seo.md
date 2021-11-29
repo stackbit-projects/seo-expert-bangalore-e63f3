@@ -37,8 +37,8 @@ seo:
       value: 'What is Press Release in SEO? '
     - name: 'twitter:description'
       value: >-
-        Here’s an 100 SEO checklist for you to start building your website and
-        creating content for your target audience.
+        SEO press release helps create buzz about what a company is doing and
+        provides latest news about its products and services. 
     - name: 'twitter:image'
       value: /images/100-seo-checklist.jpg
       relativeUrl: true
