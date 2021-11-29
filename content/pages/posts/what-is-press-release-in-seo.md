@@ -2,7 +2,9 @@
 title: What is Press Release in SEO
 excerpt: >-
   SEO press release helps create buzz about what a company is doing and provides
-  latest news about its products and services.
+  latest news about its products and services. Press releases are PR exercises
+  employed by companies to inform users of what they are working on and other
+  developments.
 date: '2021-11-06'
 thumb_img_path: /images/what is press release in seo.jpg
 thumb_img_alt: A man sitting at the table
