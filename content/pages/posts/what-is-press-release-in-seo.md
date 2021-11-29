@@ -6,7 +6,7 @@ excerpt: >-
   create content that people want to consume. Here’s an SEO checklist for you to
   start building your website and creating content for your target audience.
 date: '2021-11-06'
-thumb_img_path: /images/100-seo-checklist.jpg
+thumb_img_path: /images/what is press release in seo.jpg
 thumb_img_alt: A man sitting at the table
 content_img_path: /images/what is press release in seo.jpg
 content_img_alt: A man sitting at the table
