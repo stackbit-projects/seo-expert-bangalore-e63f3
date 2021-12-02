@@ -47,7 +47,7 @@
                 "no_follow": true
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Twitter",
                 "url": "#",
                 "style": "link",
                 "icon_class": "dev",
