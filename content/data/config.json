@@ -50,7 +50,7 @@
                 "label": "Twitter",
                 "url": "https://twitter.com/iamvijaykumar_c",
                 "style": "icon",
-                "icon_class": "dev",
+                "icon_class": "twitter",
                 "new_window": false,
                 "no_follow": false
             }
