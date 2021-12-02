@@ -65,7 +65,7 @@
             {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/iamvijaykumarc/",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false
