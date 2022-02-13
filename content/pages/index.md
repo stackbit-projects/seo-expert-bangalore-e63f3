@@ -12,13 +12,13 @@ sections:
     type: section_content
     title: About
     content: >
-      Vijay Kumar C, MBA graduate, has over a decade of experience in the field
-      of digital marketing (SEM/SEO/SMO). As a certified SEO consultant, he
-      helped start-up companies and large corporations expand their portfolios.
-      His skillset includes paid marketing, SEO, Google Tag Manager, Data
-      Studio, Facebook, and CRM Database. He has worked with some of India's
-      leading online e-commerce websites. He has successfully managed more than
-      100 projects.
+      Vijay Kumar is a MBA graduate, has over a decade of experience in the
+      field of digital marketing (SEM/SEO/SMO). As a certified SEO consultant,
+      he helped start-up companies and large corporations expand their
+      portfolios. His skillset includes paid marketing, SEO, Google Tag Manager,
+      Data Studio, Facebook, and CRM Database. He has worked with some of
+      India's leading online e-commerce websites. He has successfully managed
+      more than 100 projects.
 
       ![](/images/certified%20seo%20expert%20in%20bangalore.jpg)
     actions:
