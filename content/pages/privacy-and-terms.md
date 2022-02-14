@@ -37,7 +37,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-The following Privacy Policy governs your use of the site, <https://www.majorsexplored.com/> (hereinafter referred to as the “Website” or “seoexpertbengaluru”). This Privacy Policy document contains types of information that is offered, collected, recorded, stored, and used. The Terms and Conditions of seoexpertbengaluru are part of its Privacy Policy. By using my website, you hereby consent to this Privacy Policy and agree to its Terms and Conditions.
+The following Privacy Policy governs your use of the site, <https://www.majorsexplored.com/> (hereinafter referred to as the “Website” or “majorsexplored.com”). This Privacy Policy document contains types of information that is offered, collected, recorded, stored, and used. The Terms and Conditions of majorsexplored.com are part of its Privacy Policy. By using my website, you hereby consent to this Privacy Policy and agree to its Terms and Conditions.
 
 **Usage Restrictions**
 
